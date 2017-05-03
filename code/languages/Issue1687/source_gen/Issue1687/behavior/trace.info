@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="13,0,41,0" name="Issue1687.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="EqualToContextualExpression_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Issue1687.behavior.EqualToContextualExpression_BehaviorDescriptor" />
+    </file>
+    <file name="InRangeExpression_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Issue1687.behavior.InRangeExpression_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+
